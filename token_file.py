@@ -1,0 +1,1 @@
+DISCORD_TOKEN = 'OTc0MzEwNjczMzMwODg0NjQ5.Gmxfti.Onli8Yai9rJEnoKYBhdhPiAl46HJLNbnexgjfI'
