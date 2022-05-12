@@ -1,2 +1,3 @@
-# Pastry Bot
- 
+# Hackathon #2 
+
+**Marie, Mel, & RJ**
