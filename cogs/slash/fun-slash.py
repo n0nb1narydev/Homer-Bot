@@ -5,6 +5,7 @@ This is a template to create your own discord bot in python.
 
 Version: 4.1
 """
+# test
 
 import random
 
